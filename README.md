@@ -1,17 +1,24 @@
-Proyecto Meli 
+Proyecto Meli **Todo lo que aqui se mensiona o utiliza es con fines de test enmarcados dentro de una prueba**
 Desarrollado por Cristian Alvarado crosalvardo@gmail.com
 
--El proyecto es responsive, se utiliza tailwind y CSS(sass), esta desarrollado con next y react.
-estructura del proyecto: 
+I Versión Se creo un proyecto alternativo usando solo html css js https://drive.google.com/drive/folders/1arlM5D_SPuyItJC1Fr56Mmx4lQkReT_g?usp=sharing
+solo debe descargarlo y ponerlo en Live server de visualstudio code.
+
+
+II Versión con framework descrita a continuación:
+-El proyecto es responsive, se utiliza tailwind y CSS(sass) arquitectura BEM, esta desarrollado con next y react.
+
+*ESTRUCTURA DEL PROYECTO:*
 
 ![image](https://github.com/kthyon/Meli/assets/37644674/218cdab0-d9ce-440a-a8ca-c3f4e9e14b19)
 
-¿Cómo funciona?
-Va aencontrar un buscador junto al logo escriba o oprima enter, haciendo clic en el logo regresara al home, pasando el mouse sobre el, le sugiere que asi regresa al home.
+¿Cómo funciona tutorial?
+
+Va a encontrar un buscador junto al logo escriba o oprima enter, haciendo clic en el logo regresara al home, pasando el mouse sobre el, le sugiere que asi regresa al home.
 En este caso va a traer todo el arreglo de la API mostrando como indica el challenge solo 4 registros
 en un layout con los datos requeridos en el challenge, en esta segunda pantalla, haciendo clic en cada producto puede ingresar a una pagina que se llama producto con todas sus caracteristicas y demas.
 
-CAPTURAS:
+*CAPTURAS:*
 proyecto corriendo en localhost ![image](https://github.com/kthyon/Meli/assets/37644674/9f1bbc87-6373-4fa0-8c67-f8b9d2a99dc4)
 
 APLICACION FUNCIONANDO
@@ -23,13 +30,6 @@ busqueda: ![image](https://github.com/kthyon/Meli/assets/37644674/ee5d45e1-e86b-
 detalle producto :![image](https://github.com/kthyon/Meli/assets/37644674/4b08de2c-dd64-45bd-b326-2275b4c27cdc)
 
 regresar al home: ![image](https://github.com/kthyon/Meli/assets/37644674/9be21e4a-0816-459e-ab1e-b379f5a3ea18)
-
-
-
-Se creo un proyecto alternativo usando solo html css js https://drive.google.com/drive/folders/1arlM5D_SPuyItJC1Fr56Mmx4lQkReT_g?usp=sharing
-
-
-
 
 
 
