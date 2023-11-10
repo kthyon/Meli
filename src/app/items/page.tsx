@@ -38,8 +38,8 @@ export default async function ItemsPage({ searchParams }: { searchParams: { sear
                 <article className="grid gap-2.5">
                     {/* Mapeamos cada resultado a un enlace con detalles del producto */}
                     {results.map(item => (
-                        <Link href={`/items/${item.id}`} key={item.id} className="flex gap-4 py-3 px-2 border-b-2">
-                            <img alt={item.title} src={item.thumbnail} />
+                        <Link href={`/items/${item.id}`} key={item.id} className="flex gap-4 py-3 px-2 border-b-2 ">
+                            <img alt={item.title} src={item.thumbnail} className="productoImgPrin"/>
                             <div>
                                 {/* Mostramos el precio, título y otros detalles del producto */}
                                 <p className="text-xl font-bold currency">
