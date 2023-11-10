@@ -177,10 +177,11 @@ p {
 }
 
 /* Elemento: producto__imagen, estilos para la imagen del producto */
-.productoImg {
+.productoImg{
   padding: 12px;
-  width: 300px;
-  height: auto;
+  width: 400px;
+  object-fit: cover;
+  display: flex;
 }
 
 /* Elemento: boton__comprar, estilos para el botón de compra */
