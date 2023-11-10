@@ -54,7 +54,7 @@ export default async function ItemsPage({ searchParams }: { searchParams: { sear
                                     <p>{item.shipping.free_shipping ? 'Envío gratis' : 'Envío con costo'}</p>
                                 </div>
                                 <span className="ml-auto text-sm capitalize ciudad">
-                                    {item.seller_address.city.name.toLowerCase()}
+                                🏢 {item.seller_address.city.name.toLowerCase()}
                                 </span>
                             </Link>
                         ))

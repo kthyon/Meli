@@ -127,6 +127,8 @@ p {
 
 /* Bloque: ciudad, estilos para nombres de ciudades */
 .ciudad {
+  text-align: center;
+  width: 90px;
   color: rgba(0, 0, 0, 0.278);
   font-size: 12px;
   font-weight: bold;
@@ -198,10 +200,11 @@ p {
 
 /* Elemento: producto__imagen, estilos para la imagen del producto  pagina principal*/
 .productoImgPrin{
-  padding: 12px;
-  width: 100px;
-  object-fit: cover;
-  display: flex;
+  border-radius: 8px;
+  height: 100px;
+  width: auto;
+  object-fit: fill;
+
 }
 
 
