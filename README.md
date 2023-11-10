@@ -23,13 +23,18 @@ proyecto corriendo en localhost ![image](https://github.com/kthyon/Meli/assets/3
 
 APLICACION FUNCIONANDO
 
-inicio: ![image](https://github.com/kthyon/Meli/assets/37644674/1c9b0944-bcd6-40df-87a1-a8840dfd4ea8)
+inicio: ![image](https://github.com/kthyon/Meli/assets/37644674/39376e86-53ae-4c31-a0d7-698716fe15cc)
 
-busqueda: ![image](https://github.com/kthyon/Meli/assets/37644674/ee5d45e1-e86b-4b0f-9d71-5214d680521a)
 
-detalle producto :![image](https://github.com/kthyon/Meli/assets/37644674/4b08de2c-dd64-45bd-b326-2275b4c27cdc)
+busqueda: ![image](![image](https://github.com/kthyon/Meli/assets/37644674/c04bdcd9-03aa-4dae-9453-1e850ab0b11b)
+busqueda productos: ![image](https://github.com/kthyon/Meli/assets/37644674/9ee3e9df-0303-4ecf-8532-7c7d2278c015)
 
-regresar al home: ![image](https://github.com/kthyon/Meli/assets/37644674/9be21e4a-0816-459e-ab1e-b379f5a3ea18)
+
+detalle producto :![image](https://github.com/kthyon/Meli/assets/37644674/1a9e398f-f7f3-41c0-8f54-c03adfd2c669)
+
+
+regresar al home: ![image](https://github.com/kthyon/Meli/assets/37644674/605fe9cd-ecb7-4ce5-80c2-65bc440b4c97)
+
 
 
 
